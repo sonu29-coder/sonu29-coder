@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ===================== HEADER BANNER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Sonali%20S&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Sonali%20S&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%20and%20Data%20Science%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- ===================== TYPING SVG ===================== -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+intelligent+apps+with+GenAI+%26+LLMs;Turning+data+into+decisions%2C+one+model+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+intelligent+apps+with+GenAI+and+LLMs;Turning+data+into+decisions%2C+one+model+at+a+time" alt="Typing SVG" />
 </a>
 
 <!-- ===================== VIEWS + FOLLOWERS ===================== -->
