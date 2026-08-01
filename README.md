@@ -70,7 +70,7 @@
 ### 🧠 GenAI / LLMs
 <table>
   <tr>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/412991" width="55" height="55" alt="OpenAI"/><br/>OpenAI</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/ffffff" width="55" height="55" alt="OpenAI"/><br/>OpenAI</td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55" alt="Gemini"/><br/>Gemini</td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="55" height="55" alt="HuggingFace"/><br/>Hugging Face</td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="55" height="55" alt="LangChain"/><br/>LangChain</td>
@@ -123,7 +123,7 @@
 <table>
   <tr>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55" height="55" alt="AWS"/><br/>AWS</td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/vercel/000000" width="55" height="55" alt="Vercel"/><br/>Vercel</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/vercel/ffffff" width="55" height="55" alt="Vercel"/><br/>Vercel</td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/render/46E3B7" width="55" height="55" alt="Render"/><br/>Render</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="Docker"/><br/>Docker</td>
   </tr>
@@ -146,7 +146,7 @@
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/><br/>Git</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"/><br/>VS Code</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" alt="Linux"/><br/>Linux</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="55" height="55" alt="Windows"/><br/>Windows</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="55" height="55" alt="Windows Terminal"/><br/>Windows Terminal</td>
   </tr>
 </table>
 
