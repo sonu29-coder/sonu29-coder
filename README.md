@@ -37,7 +37,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.instagram.com/sonali_vue" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="55" height="55" alt="Instagram"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/instagram.svg" width="55" height="55" alt="Instagram"/>
       </a><br/>Instagram
     </td>
     <td align="center" width="96">
@@ -52,12 +52,12 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
-        <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="55" height="55" alt="Kaggle"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/kaggle.svg" width="55" height="55" alt="Kaggle"/>
       </a><br/>Kaggle
     </td>
     <td align="center" width="96">
       <a href="https://your-resume-link.com" target="_blank">
-        <img src="https://cdn.simpleicons.org/adobeacrobatreader/EC1C24" width="55" height="55" alt="Resume"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/adobeacrobatreader.svg" width="55" height="55" alt="Resume"/>
       </a><br/>Resume
     </td>
   </tr>
@@ -70,7 +70,7 @@
 ### 🧠 GenAI / LLMs
 <table>
   <tr>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/ffffff" width="55" height="55" alt="OpenAI"/><br/>OpenAI</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/openai.svg" width="55" height="55" alt="OpenAI"/><br/>OpenAI</td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55" alt="Gemini"/><br/>Gemini</td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="55" height="55" alt="HuggingFace"/><br/>Hugging Face</td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="55" height="55" alt="LangChain"/><br/>LangChain</td>
@@ -175,24 +175,22 @@
 
 <div align="center">
 
-*"The best way to predict the future is to build it."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Every+app+starts+as+a+blank+screen+and+an+idea;Good+code+reads+like+a+clear+conversation;Ship+it%2C+then+make+it+better" alt="Quote Typing SVG"/>
 
 </div>
 
 ---
 
-```
-██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██████╗ 
-██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔════╝ 
-██████╔╝██║   ██║██║██║     ██║  ██║██║██╔██╗ ██║██║  ███╗
-██╔══██╗██║   ██║██║██║     ██║  ██║██║██║╚██╗██║██║   ██║
-██████╔╝╚██████╔╝██║███████╗██████╔╝██║██║ ╚████║╚██████╔╝
-╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
-```
-
 <div align="center">
 
-**Code today. Ship tomorrow. Iterate forever.**
+```
+┌──────────────────────────────────────────┐
+│  >_  STATUS: BUILDING APPS & WEBSITES     │
+│      MODE:   SHIP → ITERATE → REPEAT      │
+└──────────────────────────────────────────┘
+```
+
+**From idea to interface — one commit at a time.**
 
 </div>
 
